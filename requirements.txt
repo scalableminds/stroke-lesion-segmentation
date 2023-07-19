@@ -1,0 +1,6 @@
+torch==2.0.0
+torchvision==0.15.1
+tifffile==2023.4.12
+stackview==0.6.3
+numpy==1.23.5
+jupyterlab==3.6.3
