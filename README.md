@@ -15,4 +15,4 @@ The above publication is a collaboration project between the [Böhm-Sturm group]
 All MRI scans, including the example in this repository, are property of the Böhm-Sturm group/Charitè. All code and machine learning models are property of scalable minds.
 
 ## License
-AGPLv3
+[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
