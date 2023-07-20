@@ -10,7 +10,7 @@ Note, the notebook contains a condensed, inference-only version of the pipeline 
 ```pip install -r requirements.txt```
 
 ## Attribution
-The above publication is a collaboration project between the [Böhm-Sturm group](https://charite3r.charite.de/en/metas/person/person/address_detail/dr_rer_nat_philipp_boehm_sturm-1/) at Charité and [scalableminds](https://scalableminds.com).
+The above publication is a collaboration project between the [Böhm-Sturm group](https://charite3r.charite.de/en/metas/person/person/address_detail/dr_rer_nat_philipp_boehm_sturm-1/) at Charité and [scalable minds](https://scalableminds.com).
 
 All MRI scans, including the example in this repository, are property of the Böhm-Sturm group/Charitè. All code and machine learning models are property of scalable minds.
 
